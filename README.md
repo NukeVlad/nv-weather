@@ -1,3 +1,3 @@
 # nv-weather
-Block thời tiết cho NukeViet 4
-Khởi tạo API miễn phí tại: http://openweathermap.org/
+Блок погоды для NukeViet 4
+Бесплатная инициализация API сейчас: http://openweathermap.org/
